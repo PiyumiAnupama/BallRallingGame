@@ -154,7 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myObjects:
   - {fileID: 5282669112349070724, guid: eed95db2a71c0074b925a96a29256fb3, type: 3}
-  checkRadius: 0.2
+  checkRadius: 0.5
   objectCount: 5
 --- !u!4 &148768285
 Transform:
